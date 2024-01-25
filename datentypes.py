@@ -1,3 +1,5 @@
+# Kombination SHIFT + Enter werden die markierten Zeilen im Terminal ausgeführt
+
 # 30 = int => Integer
 # 'Anna' = str => String
 # True = bool => Boolean
