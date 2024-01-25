@@ -34,13 +34,13 @@ print(result)
 
 
 # Zeigt die Position des Elements in der Tupel
-zahlen =(0, 1, 2, 3, 4, 5, 7, 8)
+zahlen = (0, 1, 2, 3, 4, 5, 7, 8)
 position = zahlen.index(7)
 print(position)
 
 
 # Tupel in Liste umwandeln und die Liste z.B. sortieren
-tupleZahlen =(8, 4, 7, 3, 5, 6, 9)
+tupleZahlen = (8, 4, 7, 3, 5, 6, 9)
 liste = list(tupleZahlen)
 print(type(list(liste)))
 

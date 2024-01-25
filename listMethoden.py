@@ -67,7 +67,7 @@ position = zahlen.index(7)
 print(position)
 
 
-# Prüft ob Element in der Liste vorhanden ist ,it True oder False
+# Prüft ob Element in der Liste vorhanden ist, True oder False
 zahlen = [0, 1, 2, 3, 4, 5, 7, 8]
 check = 6 in zahlen
 print(check)
